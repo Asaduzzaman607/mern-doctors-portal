@@ -9,4 +9,4 @@
 
 • Doctors can check all the updates of patients.
 
-### Live: https://mern-volunteer-network.web.app/
+### Live: https://mern-doctors-portal.web.app/
